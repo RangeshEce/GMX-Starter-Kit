@@ -1,1 +1,1 @@
-# Gyanmatrix-inten
+# Gyanmatrix-intern
